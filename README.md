@@ -17,7 +17,9 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Proyecto colaborativo de Sistemas de Bases de Datos: [Sistema de paqueteria inspirado en Mercado Libre](https://github.com/m-alvaradox/MercadoLibre.git).
 * Proyecto colaborativo de Organización de Computadoras: [Juego de tesoros y chacales](https://github.com/paixram/proyecto1POrganizacion.git)
 ## Intereses
-* 
+* Java
+* Modelado 3D
+* Diseño UX
 
 
 <!--
