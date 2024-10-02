@@ -5,14 +5,19 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Owuen Yagual]
-* Ocupación: [Estudiante]
-* Lugar de residencia: [Ecuador]
+* Nombre: Owuen Alex Yagual Panimboza
+* Ocupación: Estudiante de Ingenieria en Computación
+* Lugar de residencia: Salinas, Santa Elena, Ecuador
 * Sitio web: [Tu sitio web]
+* Correo Institucional: oayagual@espol.edu.ec
 ## Proyectos
-* [Lista de tus proyectos]
+* Proyecto colaborativo de POO: [Sistema administrativo de lubricadora de autos](https://github.com/jairrami06/POO-P3-G05.git).
+* Proyecto colaborativo de Estructura de Datos: [TicTacToe](https://github.com/DavidlunaT/EDD_2.git).
+* Proyecto colaborativo de Estructuras de Datos: [Aplicación de contactos telefonicos](https://github.com/DavidlunaT/G3_Proyecto1_EDD.git).
+* Proyecto colaborativo de Sistemas de Bases de Datos: [Sistema de paqueteria inspirado en Mercado Libre](https://github.com/m-alvaradox/MercadoLibre.git).
+* Proyecto colaborativo de Organización de Computadoras: [Juego de tesoros y chacales](https://github.com/paixram/proyecto1POrganizacion.git)
 ## Intereses
-* [Lista de tus intereses]
+* 
 
 
 <!--
