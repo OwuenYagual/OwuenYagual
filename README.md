@@ -4,9 +4,9 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Contenido
 * [Información personal](#información-personal)
 * [Habilidades](#mis-habilidades)
-* [GithubStats](#github-stats)
+* [Github Stats](#github-stats)
 * [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Contacto](#contáctame)
 
 ## Información personal
 * Mi nombre completo es Owuen Alex Yagual Panimboza.
@@ -14,7 +14,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Me encanta usar software como solución a cualquier problema.
 * Mi lugar de residencia es Salinas, Santa Elena, Ecuador.
 * Siempre aprendiendo cosas nuevas.
-* Sin proyectos en cursos, actualmente estoy en busca de un nuevo trabajo.
+* Sin proyectos en curso, actualmente estoy en busca de un nuevo trabajo.
 * Este es mi [curriculum](https://owuenyagual.github.io/curriculum/)
 
 ## Mis Habilidades
@@ -31,6 +31,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ## Github Stats
 ![OwuenYagual's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwuenYagual&show_icons=true&theme=gotham)
+
 ## Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jairrami06&repo=POO-P3-G05&theme=gotham)](https://github.com/jairrami06/POO-P3-G05) [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=DavidlunaT&repo=EDD_2&theme=gotham)](https://github.com/DavidlunaT/EDD_2)
 [![Aplicación de contactos telefonicos](https://github-readme-stats.vercel.app/api/pin/?username=DavidlunaT&repo=G3_Proyecto1_EDD&theme=gotham)](https://github.com/DavidlunaT/G3_Proyecto1_EDD)
@@ -43,5 +44,5 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Top Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwuenYagual&theme=gotham)](https://github.com/OwuenYagual/github-readme-stats)
 
-## Contacto
-*
+## Contáctame
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owenyagual@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owuen-yagual-panimboz-002824269/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oayagual@espol.edu.ec)
