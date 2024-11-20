@@ -1,4 +1,3 @@
-
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
@@ -31,16 +30,18 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ## Github Stats
-![OwuenYagual's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwuenYagual&show_icons=true&theme=radical)
+![OwuenYagual's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwuenYagual&show_icons=true&theme=gotham)
 ## Proyectos
-* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jairrami06&repo=POO-P3-G05)](https://github.com/jairrami06/POO-P3-G05)
-* [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=DavidlunaT&repo=EDD_2)](https://github.com/DavidlunaT/EDD_2).
-* [![Aplicación de contactos telefonicos](https://github-readme-stats.vercel.app/api/pin/?username=DavidlunaT&repo=G3_Proyecto1_EDD)](https://github.com/DavidlunaT/G3_Proyecto1_EDD).
-* [![Sistema de paqueteria inspirado en Mercado Libre](https://github-readme-stats.vercel.app/api/pin/?username=m-alvaradox&repo=MercadoLibre)](https://github.com/m-alvaradox/MercadoLibre)
-* [![Juego de tesoros y chacales](https://github-readme-stats.vercel.app/api/pin/?username=paixram&repo=proyecto1POrganizacion)](https://github.com/paixram/proyecto1POrganizacion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jairrami06&repo=POO-P3-G05&theme=gotham)](https://github.com/jairrami06/POO-P3-G05) [![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=DavidlunaT&repo=EDD_2&theme=gotham)](https://github.com/DavidlunaT/EDD_2)
+[![Aplicación de contactos telefonicos](https://github-readme-stats.vercel.app/api/pin/?username=DavidlunaT&repo=G3_Proyecto1_EDD&theme=gotham)](https://github.com/DavidlunaT/G3_Proyecto1_EDD)
+[![Juego de tesoros y chacales](https://github-readme-stats.vercel.app/api/pin/?username=paixram&repo=proyecto1POrganizacion&theme=gotham)](https://github.com/paixram/proyecto1POrganizacion)
+[![Curriculum](https://github-readme-stats.vercel.app/api/pin/?username=OwuenYagual&repo=curriculum&theme=gotham)](https://github.com/OwuenYagual/curriculum)
+[![LandingPage](https://github-readme-stats.vercel.app/api/pin/?username=OwuenYagual&repo=landing&theme=gotham)](https://github.com/OwuenYagual/dashboard)
+[![Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=OwuenYagual&repo=dashboard&theme=gotham)](https://github.com/OwuenYagual/dashboard)
+
 
 ## Top Lenguajes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwuenYagual)](https://github.com/OwuenYagual/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwuenYagual&theme=gotham)](https://github.com/OwuenYagual/github-readme-stats)
 
 ## Contacto
 *
